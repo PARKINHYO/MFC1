@@ -5,3 +5,4 @@
 *.pdb filter=lfs diff=lfs merge=lfs -text
 Browse.Vc.db filter=lfs diff=lfs merge=lfs -text
 Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+IhparkMsg.pch filter=lfs diff=lfs merge=lfs -text
