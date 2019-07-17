@@ -1,0 +1,3 @@
+﻿  IhparkMsgView.cpp
+c:\박인효\vc++mfc\ihparkmsg\ihparkmsg\ihparkmsgview.cpp(359): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  IhparkMsg.vcxproj -> C:\박인효\vc++MFC\IhparkMsg\Debug\IhparkMsg.exe
